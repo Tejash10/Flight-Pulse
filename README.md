@@ -64,7 +64,7 @@ Flight_Pulse/
 
 ### 2. Flight Delay Analysis Dashboard
 
-![Flight Delay Analysis](Screenshot/Flight%20Delay%20Analysis.png)
+![Flight Delay Analysis](Screenshot/Flight%20Delay%20Analysis.png) 
 
 ### 3. Flight Overview Dashboard
 
